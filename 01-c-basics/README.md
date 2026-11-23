@@ -48,6 +48,7 @@ getch();
   ```
 **Scope of a Variable**
 - Scope generally speaks about thw visibility of variables.
+- 
 **Local**
   ```
   void main()
