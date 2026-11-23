@@ -17,3 +17,19 @@ statement n;
 
 Use defined functions;
 ```
+### Comments
+
+```
+/* This is my First C Program
+Author name:    */
+
+#include<stdio.h>
+#include<conio.h>
+
+void main()
+{
+printf("C Programming");    //Single line Comment
+
+getch();
+}
+```
