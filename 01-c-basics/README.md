@@ -48,9 +48,23 @@ getch();
   ```
 **Scope of a Variable**
 - Scope generally speaks about thw visibility of variables.
-| Local | Global |
-| :--- | :--- |
-| `void main() {`<br>`&nbsp;&nbsp;int rollno = 10;`<br>`}` | `int y = 50;`<br><br>`void main() {`<br>`&nbsp;&nbsp;int x = 100;`<br>`}` |
+**Local**
+  ```
+  void main()
+  {
+    int rollno=10;
+  }
+  ```
+**Global**
+  ```
+  int y=50
+
+  void main()
+  {
+    int x=100;
+  }
+  ```
+
 
 
 
