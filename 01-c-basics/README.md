@@ -37,6 +37,7 @@ getch();
 ### Variables in C
 **What is a Variable?**
 - It's a name given to a memory location where the value is not fixed, it can change with the course of timw. Ex: int num;
+
 **Syntax:**
   ```
   datatype variable_name;
