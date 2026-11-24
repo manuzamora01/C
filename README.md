@@ -6,7 +6,7 @@ Repositorio dedicado al estudio progresivo del lenguaje de programación **C** o
 
 ## 📋 Progreso del Roadmap
 
-- [ ] **Nivel 1 (Iniciación):** C for Beginners / C Programming Basics
+- [x] **Nivel 1 (Iniciación):** C for Beginners / C Programming Basics
 - [ ] **Nivel 2 (Básico – Intermedio):** C Certification (3 bloques prácticos en Coddy Tech)
 - [ ] **Nivel 3 (Básico - Ruta Oficial CLE):** C Essentials 1
 - [ ] **Nivel 4 (Universitario / Algoritmia):** Harvard CS50x *(Semanas 1 a 5: memoria y estructuras en C)*
